@@ -1,9 +1,9 @@
 import React from 'react'
 
-const merch = () => {
+const Merch = () => {
   return (
-    <div>merch</div>
+    <div>Merch</div>
   )
 }
 
-export default merch
+export default Merch

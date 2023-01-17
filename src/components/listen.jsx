@@ -1,9 +1,9 @@
 import React from 'react'
 
-const listen = () => {
+const Listen = () => {
   return (
-    <div>listen</div>
+    <div>Listen</div>
   )
 }
 
-export default listen
+export default Listen

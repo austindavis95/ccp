@@ -1,9 +1,9 @@
 import React from 'react'
 
-const socials = () => {
+const Socials = () => {
   return (
-    <div>socials</div>
+    <div>Socials</div>
   )
 }
 
-export default socials
+export default Socials
